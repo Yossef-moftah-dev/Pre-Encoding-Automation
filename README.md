@@ -103,7 +103,11 @@ The application will start on `http://127.0.0.1:7860` (open in your browser).
 | `pypdf` | 4.0.1 | PDF text extraction |
 | `python-dotenv` | 1.0.0 | Environment variable management |
 
-[[preEncodingPhase.png|thumb|center|600px]]
+## 📝 Pre-Encoding Phase Diagram
+<div style="text-align: center;">
+<img src="preEncodingPhase.png" alt="Pre-encoding phase diagram" width="600">
+</div>
+
 
 **Pre-Encoding-Automation** The app that I have wanted to build for a long time!
 © 2026 Yossef Moftah. Licensed under MIT License.
