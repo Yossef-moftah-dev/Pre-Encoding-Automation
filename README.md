@@ -103,6 +103,7 @@ The application will start on `http://127.0.0.1:7860` (open in your browser).
 | `pypdf` | 4.0.1 | PDF text extraction |
 | `python-dotenv` | 1.0.0 | Environment variable management |
 
+[[/run/media/chimlm/c0934cb4-a441-43bb-90b9-b4e743d51fd2/007_Software_Dev/200 Python/testing space/Pre-Encoding-Automation/preEncodingPhase.png|thumb|center|600px]]
 
 **Pre-Encoding-Automation** The app that I have wanted to build for a long time!
 © 2026 Yossef Moftah. Licensed under MIT License.
