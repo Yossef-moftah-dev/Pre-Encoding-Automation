@@ -1,0 +1,4 @@
+gradio==4.26.0
+groq==0.4.2
+pypdf==4.0.1
+python-dotenv==1.0.0
